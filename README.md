@@ -1,3 +1,3 @@
 # mis-test
 This is my first git repository.<br>
-Author-Neeru Gaur
+Author-Neeru Gaur (admin)
